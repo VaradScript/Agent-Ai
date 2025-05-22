@@ -1,21 +1,50 @@
-# Agent-Ai
-VAPI account - Just sign up at vapi.ai (it's free to start)
+# 🤖 AI Chat Agent with n8n (Work in Progress)
 
-Node.js - Install from nodejs.org (any recent version)
+This is an experimental chatbot built using [n8n](https://n8n.io/). It's designed to receive chat messages, use AI to respond, and access external tools like calculators or search APIs.
 
-OpenAI API key - Get from platform.openai.com/api-keys
+> 🚧 This project is still in development. I'm iterating regularly and documenting everything!
 
-Ngrok - Download from ngrok.com (free version works)
+---
 
+## 🧩 Current Features
 
-In the dashboard, configure your Agent:
+- 🧠 Uses OpenAI Chat Model
+- 🗂️ Maintains memory of previous chat context
+- 🔎 Integrates SerpAPI for search
+- ➕ Supports math via Calculator tool
+- ⚡ Triggered by chat message input
 
-• Name: e.g., “Customer Support Bot”
+---
 
-• LLM Provider: OpenAI / Anthropic / Google / etc.
+## 🛠 What's Next (Planned Improvements)
 
-• Voice provider: ElevenLabs, Play.ht, etc.
+- ✅ Better UI/UX for users
+- 🔐 Secure API key handling with environment variables
+- 📦 Add vector DB or long-term memory store
+- 🧪 Test with real-world prompts
+- 🚀 Deploy with webhook & chat frontend (Bubble/React/Nuxt)
 
-• Set prompt for your bot’s personality:
+---
 
-"You are a helpful customer support agent for a delivery service. Answer natural
+## 💬 Demo
+
+### Current Workflow
+
+![Current Workflow](screenshots/current-ui.png)
+
+### Workflow JSON
+
+You can find the export under [`workflows/ai-agent-workflow.json`](workflows/ai-agent-workflow.json)
+
+---
+
+## 📅 Roadmap
+
+You can follow ongoing progress and ideas in [roadmap.md](roadmap.md)
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm Varadaraj, exploring automation and AI workflows with no-code tools. Follow the journey, contribute ideas, or just say hi!
+
