@@ -46,5 +46,5 @@ You can follow ongoing progress and ideas in [roadmap.md](roadmap.md)
 
 ## 🙋‍♂️ About Me
 
-I'm Varadaraj, exploring automation and AI workflows with no-code tools. Follow the journey, contribute ideas, or just say hi!
+. Follow the journey, contribute ideas, or just say hi!
 
