@@ -8,7 +8,7 @@ This is an experimental chatbot built using [n8n](https://n8n.io/). It's designe
 
 ## 🧩 Current Features
 
-- 🧠 Uses OpenAI Chat Model
+- 🧠 Uses OpenAI Chat Model(api)
 - 🗂️ Maintains memory of previous chat context
 - 🔎 Integrates SerpAPI for search
 - ➕ Supports math via Calculator tool
