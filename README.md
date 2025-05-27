@@ -2,7 +2,7 @@
 
 This is an experimental chatbot built using [n8n](https://n8n.io/). It's designed to receive chat messages, use AI to respond, and access external tools like calculators or search APIs.
 
-> 🚧 This project is still in development. I'm iterating regularly and documenting everything!
+> 🚧 This project is still in development. I'm iterating regularly and documenting everything!..
 
 ---
 
