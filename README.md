@@ -38,11 +38,7 @@ You can find the export under [`workflows/ai-agent-workflow.json`](workflows/ai-
 
 ---
 
-## 📅 Roadmap
 
-You can follow ongoing progress and ideas in [roadmap.md](roadmap.md)
-
----
 
 ## 🙋‍♂️ About Me
 
